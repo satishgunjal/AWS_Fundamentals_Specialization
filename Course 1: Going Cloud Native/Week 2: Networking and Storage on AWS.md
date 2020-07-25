@@ -26,3 +26,6 @@ You can choose the AWs region where bucket will be stored to reduce the latency,
 Unlike EBS, Elastic File System is regionaly distributed that can automatucally attached to multiple EC2 simultaniously, including the instances in different VPC.
 for e.g. We can use EFS to create a corporate file store where everyone connects to the same document store. And we can even enable the EFS File Sync, to sync data with on premise data storage.
 
+## Storage Quiz
+[Storage Quiz](images/Storage_Quiz.png)
+
