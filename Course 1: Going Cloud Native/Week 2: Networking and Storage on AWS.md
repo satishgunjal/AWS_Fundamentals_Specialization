@@ -4,7 +4,7 @@
 * Describe the different use cases for Amazon S3, Amazon EBS, Amazon EFS
 
 ## Networking Quiz. Graded Quiz • 10 min
-![Networking Quiz](images/Networking Quiz.png)
+[Networking Quiz](images/Networking-Quiz.png)
 
 # Storage on AWS
 ## Introduction to Storage on AWS
