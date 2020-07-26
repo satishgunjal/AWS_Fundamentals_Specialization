@@ -6,4 +6,4 @@
 * Define Amazon DynamoDB
 
 ## Database Quiz
-![Database Quiz](images/Database_Quiz.png)
+[Database Quiz](images/Database_Quiz.png)
