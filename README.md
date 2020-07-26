@@ -10,6 +10,7 @@ This course will introduce you to Amazon Web Services (AWS) core services and in
 This course will give you an overview of security best practices when developing and managing applications on AWS. You will learn about the concept of “least privilege” and the AWS Shared Responsibility Model, as well as view demonstrations of Amazon GuardDuty, AWS Secrets Manager, and cross-account access.
 
 -- todo -- add index here
+first week being the introduction. Week 2 is securing your infrastructure. Week 3 is data protection. And, we'll end it with Week 4, securing your application.
 
 ## COURSE 3: AWS Fundamentals: Migrating to the Cloud
 
