@@ -6,7 +6,7 @@ This course will introduce you to Amazon Web Services (AWS) core services and in
 
 -- todo -- add index here
 
-## COURSE 2: AWS Fundamentals: Addressing Security Risk
+## [COURSE 2: AWS Fundamentals: Addressing Security Risk](https://github.com/satishgunjal/AWS_Fundamentals_Specialization/tree/master/Course%202:%20Addressing%20Security%20Risk/README.md)
 This course will give you an overview of security best practices when developing and managing applications on AWS. You will learn about the concept of “least privilege” and the AWS Shared Responsibility Model, as well as view demonstrations of Amazon GuardDuty, AWS Secrets Manager, and cross-account access.
 
 -- todo -- add index here
