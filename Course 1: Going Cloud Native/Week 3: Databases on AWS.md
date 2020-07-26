@@ -4,3 +4,6 @@
 * Distinguish between SQL and NoSQL solutions on AWS
 * Define Amazon RDS
 * Define Amazon DynamoDB
+
+## Database Quiz
+![Database Quiz](images/Database_Quiz.png)
